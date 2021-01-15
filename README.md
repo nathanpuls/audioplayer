@@ -1,4 +1,4 @@
 # audioplayer
 
-Hey all, I created this for me website [sayingthings.com]sayingthings.com.
+Hey all, I created this for my website [sayingthings.com]sayingthings.com.
 
